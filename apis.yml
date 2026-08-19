@@ -32,7 +32,7 @@ x-acquired-by: okta
 x-acquired-date: '2021-08'
 x-acquisition-source: https://www.okta.com/blog/2021/08/okta-atspoke-join-forces/
 x-former-api: https://api.askspoke.com/api/v1
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
